@@ -1,4 +1,4 @@
-# ***⛔ Please credit me***
+# ***🌙 Please credit me @0xTracey***
 ### <center>🖼️ Drainer Template / ETH Drainer / NFT Drainer
 ![image](https://user-images.githubusercontent.com/109088488/178377411-c89b5a3e-1cdd-4780-9d91-607a39e1ab8e.png)
 ---
